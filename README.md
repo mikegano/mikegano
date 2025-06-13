@@ -1,6 +1,6 @@
 # Hi, I'm Mike Gano 👋
 
-With over 15 years of experience in delivering data-driven software solutions, I specialize in building scalable products for startups and Fortune 500 companies alike. My expertise spans product management, AI integration, and hands-on development, helping businesses accelerate growth through innovation.
+With over 20 years of experience in delivering data-driven software solutions, I specialize in building scalable products for startups and Fortune 500 companies alike. My expertise spans product management, AI integration, and hands-on development, helping businesses accelerate growth through innovation.
 
 ### What I Do
 - **AI & Machine Learning**: I leverage cutting-edge AI technologies to develop innovative solutions that drive business impact.
